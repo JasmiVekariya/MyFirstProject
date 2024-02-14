@@ -10,8 +10,11 @@ int main()
 {
 	//Declaring and initializing variable.
 	// declaring the initial of my last name that is 'v'
-	const char initial = 'v';
-	int i = 'a', addition = 0, count = 0, mean = 0;
+	const char initial = 'j';
+	int i = 'a'; 
+	int addition = 0; 
+	int count = 0; 
+	int mean = 0;
 
 	//Using loop to print alphabets and the ASCII in front of the letter 'v'.
 	//the loop checks the letter is less than or equal to 'z' 
